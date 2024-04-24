@@ -1,0 +1,8 @@
+train: /home/alan/gui_sam/dataset_2objcv3/train/images
+val: /home/alan/gui_sam/dataset_2objcv3/valid/images
+test: /home/alan/gui_sam/dataset_2objcv3/test/images
+
+names: 
+  0: apple
+  1: rubik_cube
+
